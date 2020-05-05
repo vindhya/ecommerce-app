@@ -5,7 +5,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 1px solid black;
+  border: 1px solid #33272a;
+  border-radius: 10px;
   margin: 0 7.5px 15px;
   overflow: hidden;
 
@@ -48,7 +49,8 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    border: 1px solid black;
+    border: 1px solid #33272a;
+    border-radius: 10px;
     background-color: #ff8ba7;
     opacity: 0.7;
     position: absolute;
@@ -57,7 +59,7 @@
       font-weight: bold;
       margin-bottom: 6px;
       font-size: 22px;
-      color: #4a4a4a;
+      color: #33272a;
     }
 
     .subtitle {
